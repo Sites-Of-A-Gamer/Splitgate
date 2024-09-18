@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">A Deep Dive into Splitgate</h1>
-<a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md"> <img src="SplitgateLogo.jpg" alt="SplitgateLogo" class="center" width="475" height="300" /></a>
+<a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md"> <img src="SplitgateLogo.jpg" alt="SplitgateLogo" class="center" width="425" height="300" /></a>
 <h2 style="font-family:Arial;font-size:20px;">Beginnings and Progress</h2>
 <p style="font-family:Arial;font-size:20px;">Ian Proulx and his crew formed 1047 Games, an obscure studio that started as Splitgate. The main objective of the game, which was first developed as a side project in 2016, was to blend the action-packed, typical first-person shooter gameplay with a novel twist—portal mechanics. Inspired by the portal technology used in games such as Portal and Portal 2, the concept aims to provide players with an exciting new strategic experience.
 
