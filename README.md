@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">A Deep Dive into Splitgate</h1>
-<p align"center">
+<p align="center">
 <a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md"> <img src="SplitgateLogo.jpg" alt="SplitgateLogo" class="center" width="425" height="300" /></a>
 </p>
 <h2 style="font-family:Arial;font-size:20px;">Beginnings and Progress</h2>
